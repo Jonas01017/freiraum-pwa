@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Freiraum – Meine Aufgaben",
+  "short_name": "Freiraum",
+  "description": "Platz für das, was dir wichtig ist. Deine Aufgaben, lokal und offline.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F5F6FA",
+  "theme_color": "#5B5CE2",
+  "categories": ["utilities", "productivity"],
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"./icons/maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
