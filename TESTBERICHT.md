@@ -60,8 +60,8 @@ Die Tests fanden einen Safari-Layoutüberlauf bei langen Notizen. Die Grid-Eleme
 
 ## Bereitstellung
 
-- Öffentlicher App-Link: https://intelouis.github.io/freiraum-pwa/
-- Quellcode, Workflow und reproduzierbarer Build: https://github.com/Intelouis/freiraum-pwa
+- Öffentlicher App-Link: https://jonas01017.github.io/freiraum-pwa/
+- Quellcode, Workflow und reproduzierbarer Build: https://github.com/Jonas01017/freiraum-pwa
 - Installations- und Sicherungsanleitung: `README.md`.
 - Lokale PNG-Vorschauen: `qa-artifacts/<Browserkonfiguration>/` (nicht Teil der veröffentlichten App).
 

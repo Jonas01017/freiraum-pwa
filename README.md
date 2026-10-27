@@ -2,7 +2,7 @@
 
 Eine eigenständige, installierbare Aufgaben-App als Progressive Web App. Das native Android-Projekt bleibt unabhängig und unverändert. React, TypeScript und Vite; keine Anmeldung, kein Backend, keine Synchronisierung und keine externen Schriftarten, Analyse- oder Werbedienste.
 
-App-Link: **https://intelouis.github.io/freiraum-pwa/** · [Quellcode und automatische Builds](https://github.com/Intelouis/freiraum-pwa)
+App-Link: **https://jonas01017.github.io/freiraum-pwa/** · [Quellcode und automatische Builds](https://github.com/Jonas01017/freiraum-pwa)
 
 ## Auf iPhone oder iPad installieren
 
